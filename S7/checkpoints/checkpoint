@@ -1,0 +1,1 @@
+model_checkpoint_path: "mobilenet_v1_1.0_224.ckpt"
