@@ -1,6 +1,8 @@
-## Deep Learning with TensorFlow: Hands-on Coding Sessions
+## Hands-on Deep Learning: TensorFlow Coding Sessions
 
-This repository has the code for the Deep Learning with TensorFlow: Hands-on Coding Sessions. The videos will be uploaded on a weekly basis.
+<a href="#"><img src="/img/tfcs.png" alt="TensorFlow Coding Sessions" height="250"></a>
+
+This repository has the code for the Hands-on Deep Learning: TensorFlow Coding Sessions. The videos will be uploaded on a weekly basis.
 
 The series consist of the introductory TensorFlow tutorials outlined below:
 
@@ -16,6 +18,8 @@ The series consist of the introductory TensorFlow tutorials outlined below:
 |8| Using a Python iterator as a data generator and training a denoising autoencoder  |[S8](S8/)| Will be uploaded |
 
 ---
+
+<a href="https://www.youtube.com/watch?v=nmnaO6esC7c&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07"><img src="/img/dlcc.jpg" alt="Deep Learning Crash Course" height="250"></a>
 
 ## Deep Learning Crash Course
 
