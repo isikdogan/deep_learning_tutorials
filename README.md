@@ -1,6 +1,6 @@
-## Hands-on Deep Learning: TensorFlow Coding Sessions
-
 <a href="#"><img src="https://raw.githubusercontent.com/isikdogan/deep_learning_tutorials/master/img/tfcs_github.png" alt="TensorFlow Coding Sessions"></a>
+
+## Hands-on Deep Learning: TensorFlow Coding Sessions
 
 This repository has the code for the Hands-on Deep Learning: TensorFlow Coding Sessions. The videos will be uploaded on a weekly basis.
 
