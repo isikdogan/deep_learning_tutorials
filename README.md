@@ -1,6 +1,6 @@
 ## Hands-on Deep Learning: TensorFlow Coding Sessions
 
-<a href="#"><img src="/img/tfcs.png" alt="TensorFlow Coding Sessions" height="250"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/isikdogan/deep_learning_tutorials/master/img/tfcs.png" alt="TensorFlow Coding Sessions"></a>
 
 This repository has the code for the Hands-on Deep Learning: TensorFlow Coding Sessions. The videos will be uploaded on a weekly basis.
 
@@ -19,7 +19,7 @@ The series consist of the introductory TensorFlow tutorials outlined below:
 
 ---
 
-<a href="https://www.youtube.com/watch?v=nmnaO6esC7c&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07"><img src="/img/dlcc.jpg" alt="Deep Learning Crash Course" height="250"></a>
+<a href="https://www.youtube.com/watch?v=nmnaO6esC7c&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07"><img src="https://raw.githubusercontent.com/isikdogan/deep_learning_tutorials/master/img/dlcc_github.jpg" alt="Deep Learning Crash Course"></a>
 
 ## Deep Learning Crash Course
 
