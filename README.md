@@ -12,7 +12,7 @@ The series consist of the introductory TensorFlow tutorials outlined below:
 |2| Training a multilayer perceptron                                       |[S2_live.py](S2_live.py)| [Video #2](https://youtu.be/b7ykcBzz9wo) |
 |3| Setting up the training and validation pipeline                        |[S3_live.py](S3_live.py)| [Video #3](https://youtu.be/l_ZvxKBToWs) |
 |4| Regularization, saving and resuming from checkpoints, and TensorBoard  |[S4_live.py](S4_live.py)| [Video #4](https://youtu.be/ni9FZtF_gLs) |
-|5| Convolutional neural networks, batchnorm, learning rate schedules, optimizers|[S5_live.py](S5_live.py)| Will be uploaded |
+|5| Convolutional neural networks, batchnorm, learning rate schedules, optimizers|[S5_live.py](S5_live.py)| [Video #5](https://youtu.be/ULX1nWPAJbM) |
 |6| Converting a dataset into TFRecords, training an image classifier, and freezing the model for deployment|[S6](S6/)| Will be uploaded |
 |7| Transfer learning: fine tuning a model in TensorFlow                   |[S7](S7/)| Will be uploaded |
 |8| Using a Python iterator as a data generator and training a denoising autoencoder  |[S8](S8/)| Will be uploaded |
