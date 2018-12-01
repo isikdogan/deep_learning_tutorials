@@ -14,8 +14,8 @@ The series consist of the introductory TensorFlow tutorials outlined below:
 |4| Regularization, saving and resuming from checkpoints, and TensorBoard  |[S4_live.py](S4_live.py)| [Video #4](https://youtu.be/ni9FZtF_gLs) |
 |5| Convolutional neural networks, batchnorm, learning rate schedules, optimizers|[S5_live.py](S5_live.py)| [Video #5](https://youtu.be/ULX1nWPAJbM) |
 |6| Converting a dataset into TFRecords, training an image classifier, and freezing the model for deployment|[S6](S6/)| [Video #6](https://youtu.be/tzKqjPdAf8M) |
-|7| Transfer learning: fine tuning a model in TensorFlow                   |[S7](S7/)| Will be uploaded |
-|8| Using a Python iterator as a data generator and training a denoising autoencoder  |[S8](S8/)| Will be uploaded |
+|7| Transfer learning: fine tuning a model in TensorFlow                   |[S7](S7/)| [Video #7](https://youtu.be/jccBP_uA98k) |
+|8| Using a Python iterator as a data generator and training a denoising autoencoder  |[S8](S8/)|  |
 
 ---
 
