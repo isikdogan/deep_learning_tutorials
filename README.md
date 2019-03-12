@@ -16,7 +16,7 @@ The series consist of the introductory TensorFlow tutorials outlined below:
 |6| Converting a dataset into TFRecords, training an image classifier, and freezing the model for deployment|[S6](S6/)| [Video #6](https://youtu.be/tzKqjPdAf8M) |
 |7| Transfer learning: fine tuning a model in TensorFlow                   |[S7](S7/)| [Video #7](https://youtu.be/jccBP_uA98k) |
 |8| Using a Python iterator as a data generator and training a denoising autoencoder  |[S8](S8/)| N/A |
-|9| What is new in TensorFlow 2.0 **[new]**                   | | [Video #8](https://youtu.be/GI_QVLNCgPo) |
+|9| What is new in TensorFlow 2.0 **[new]**                   |[S9](S9/)| [Video #8](https://youtu.be/GI_QVLNCgPo) |
 
 ---
 
